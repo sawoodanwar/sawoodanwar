@@ -29,7 +29,6 @@ I work at the intersection of **social media analysis**, computational communica
 - Research interests in digital media, platform studies, and computational methods
 
 ## Current Focus
-- Building a stronger public research portfolio on GitHub
 - Expanding reproducible workflows for social media and text analysis
 - Preparing academic outputs for postdoctoral and international research opportunities
 
