@@ -8,6 +8,7 @@ I work at the intersection of **social media analysis**, computational communica
 - Social media data analysis
 - Computational communication science
 - NLP and topic modeling
+- Time series analysis
 - Sentiment and reaction analysis
 - Disinformation and problematic health content
 - Crisis communication
