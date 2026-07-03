@@ -28,8 +28,9 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 - NLP, topic modeling & text embeddings
 - Sentiment and reaction analysis
 - Health communication & misinformation
-- Crisis communication & disinformation
+- Disinformation detection & crisis communication
 - Time-series analysis of digital engagement
+- Cross-platform comparative research
 
 ---
 
@@ -39,6 +40,8 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![tidytext](https://img.shields.io/badge/tidytext-NLP-green?style=flat)
 ![STM](https://img.shields.io/badge/STM-Topic%20Modeling-blueviolet?style=flat)
+![tidymodels](https://img.shields.io/badge/tidymodels-ML-orange?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-orange?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)
 
@@ -46,47 +49,92 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 |---|---|
 | Topic Modeling | `stm`, `topicmodels`, BERTopic, K-means + UMAP |
 | Sentiment Analysis | `sentimentr`, `tidytext`, AFINN, Bing, NRC |
+| ML Classification | `tidymodels`, `textrecipes`, `scikit-learn`, `caret` |
 | Text Processing | `quanteda`, `tidyverse`, `stringr` |
-| Visualization | `ggplot2`, `plotly` |
-| Data Collection | CrowdTangle, Meta Content Library, Reddit API |
-| Other | GPT-4 API (cluster labeling), OpenAI embeddings, Gephi |
+| Visualization | `ggplot2`, `patchwork`, `plotly` |
+| Data Collection | CrowdTangle, Meta Content Library API, Reddit API |
+| Time-Series | `zoo`, `forecast`, `anomalize`, Z-score, rolling stats |
+| Other | GPT-4 API (cluster labeling), OpenAI embeddings, SHAP, Gephi |
 
 ---
 
-## 📁 Featured Projects
+## 📁 Research Portfolio
 
-### 🦠 [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india)
+### 🧪 PhD Thesis
+
+#### 🦠 [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india)
 > **PhD Thesis Project** | R + Python | Facebook | COVID-19
 
 Multi-method analysis of Facebook Reactions as emotional indicators of public engagement with COVID-19 news in India (2020–2022). Combines time-series analysis, embedding-based topic modeling, GPT-4 cluster labeling, and sentiment analysis on 68,319 posts from 4 major Indian news outlets.
 
 ---
 
-### 🧠 [stm-social-media-r](https://github.com/sawoodanwar/stm-social-media-r)
+### ⏱️ Time-Series & Engagement
+
+#### ⏱️ [timeseries-facebook-engagement-r](https://github.com/sawoodanwar/timeseries-facebook-engagement-r)
+> **3-Module Toolkit** | R | Facebook | Time-Series + Anomaly Detection + Misinfo Spikes
+
+Comprehensive time-series framework covering: (1) reusable general toolkit for any social media data, (2) COVID-19 Facebook extension with reaction-specific and pandemic-phase analyses, and (3) health misinformation spike detection with event annotation and heatmaps.
+
+---
+
+### 🗂️ Topic Modeling
+
+#### 🧠 [stm-social-media-r](https://github.com/sawoodanwar/stm-social-media-r)
 > **Method Toolkit** | R | Topic Modeling | Social Media
 
-Reproducible STM (Structural Topic Model) workflow for social media text analysis in R. Includes preprocessing, DFM construction, topic fitting with covariates, and visualization.
+Reproducible STM (Structural Topic Model) workflow for social media text in R. Includes preprocessing, DFM construction, topic fitting with covariates, and visualization.
 
 ---
 
-### 💬 [sentiment-lexicon-comparison](https://github.com/sawoodanwar/sentiment-lexicon-comparison)
+### 💬 Sentiment Analysis
+
+#### 💬 [sentiment-lexicon-comparison](https://github.com/sawoodanwar/sentiment-lexicon-comparison)
 > **Method Toolkit** | R | Sentiment Analysis | NLP
 
-Comparison of AFINN, Bing, and NRC lexicons on social media text in R. Demonstrates how lexicon choice affects sentiment outputs — ideal for researchers selecting tools for text analysis.
+Comparison of AFINN, Bing, and NRC lexicons on social media text. Demonstrates how lexicon choice affects sentiment outputs — ideal for researchers selecting tools for text analysis.
 
 ---
 
-### 📊 [meta-content-analysis](https://github.com/sawoodanwar/meta-content-analysis)
+### 📊 Platform & Content Analysis
+
+#### 📊 [meta-content-analysis](https://github.com/sawoodanwar/meta-content-analysis)
 > **Research Project** | R | Facebook + Instagram | Health Misinformation
 
-Content analysis of Facebook and Instagram data for studying health communication and misinformation on Meta platforms. Combines STM topic modeling with engagement metric analysis.
+Content analysis of Facebook and Instagram data for studying health communication and misinformation on Meta platforms. Uses STM topic modeling and engagement metric analysis.
+
+#### 🗳️ [reddit-political-misinfo-coding](https://github.com/sawoodanwar/reddit-political-misinfo-coding)
+> **Research Project** | R | Reddit | Political Communication
+
+Manual content coding framework for political communication and misinformation on Reddit. Includes a codebook, intercoder reliability scripts, and descriptive analysis.
+
+#### 🔄 [cross-platform-engagement-analysis](https://github.com/sawoodanwar/cross-platform-engagement-analysis)
+> **Comparative Framework** | R | Facebook + Instagram + Reddit
+
+Unified R framework that harmonizes engagement data from Facebook, Instagram, and Reddit into a single schema for systematic cross-platform comparison.
 
 ---
 
-### 🗳️ [reddit-political-misinfo-coding](https://github.com/sawoodanwar/reddit-political-misinfo-coding)
-> **Research Project** | R | Reddit | Political Communication
+### 🤖 Machine Learning & Classification
 
-Manual content coding framework for studying political communication and misinformation on Reddit. Includes a structured codebook, intercoder reliability scripts, and descriptive analysis in R.
+#### 🔴 [disinformation-detection-ml](https://github.com/sawoodanwar/disinformation-detection-ml)
+> **ML Pipeline** | Python + R | Disinformation Detection
+
+Machine learning classifier for detecting disinformation in news posts. Compares Logistic Regression, Random Forest, SVM, and Naive Bayes using TF-IDF features. Includes SHAP-based model interpretation.
+
+#### 🟣 [nlp-news-classification-r](https://github.com/sawoodanwar/nlp-news-classification-r)
+> **Supervised NLP** | R | tidymodels | News Classification
+
+Supervised NLP text classification pipeline for labeling news articles by topic (health, politics, economy) and credibility (credible vs. misleading) using `tidymodels` and `textrecipes`.
+
+---
+
+### 🗄️ Data Collection
+
+#### 🟢 [crowdtangle-meta-api-workflow](https://github.com/sawoodanwar/crowdtangle-meta-api-workflow)
+> **Data Pipeline** | Python + R | CrowdTangle + Meta Content Library
+
+Documented academic data collection pipeline for Facebook and Instagram research. Covers both legacy CrowdTangle CSV exports and the current Meta Content Library API, including ethics guidelines and a unified data schema.
 
 ---
 
