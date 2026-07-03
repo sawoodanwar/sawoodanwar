@@ -31,6 +31,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 - Disinformation detection & crisis communication
 - Time-series analysis of digital engagement
 - Cross-platform comparative research
+- Survey methods, scale validation & experimental designs
 
 ---
 
@@ -42,8 +43,8 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 ![STM](https://img.shields.io/badge/STM-Topic%20Modeling-blueviolet?style=flat)
 ![tidymodels](https://img.shields.io/badge/tidymodels-ML-orange?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![lavaan](https://img.shields.io/badge/lavaan-CFA%2FEFA-9B59B6?style=flat)
 ![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-orange?style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)
 
 | Domain | Tools & Packages |
 |---|---|
@@ -54,6 +55,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 | Visualization | `ggplot2`, `patchwork`, `plotly` |
 | Data Collection | CrowdTangle, Meta Content Library API, Reddit API |
 | Time-Series | `zoo`, `forecast`, `anomalize`, Z-score, rolling stats |
+| Survey Methods | `psych`, `lavaan`, `semTools`, `survey`, `estimatr`, `gtsummary` |
 | Other | GPT-4 API (cluster labeling), OpenAI embeddings, SHAP, Gephi |
 
 ---
@@ -115,7 +117,7 @@ Unified R framework that harmonizes engagement data from Facebook, Instagram, an
 
 ---
 
-### 🤖 Machine Learning & Classification
+### 🤖 Machine Learning & NLP Classification
 
 #### 🔴 [disinformation-detection-ml](https://github.com/sawoodanwar/disinformation-detection-ml)
 > **ML Pipeline** | Python + R | Disinformation Detection
@@ -135,6 +137,25 @@ Supervised NLP text classification pipeline for labeling news articles by topic 
 > **Data Pipeline** | Python + R | CrowdTangle + Meta Content Library
 
 Documented academic data collection pipeline for Facebook and Instagram research. Covers both legacy CrowdTangle CSV exports and the current Meta Content Library API, including ethics guidelines and a unified data schema.
+
+---
+
+### 📝 Survey Methods
+
+#### 📊 [survey-data-analysis-r](https://github.com/sawoodanwar/survey-data-analysis-r)
+> **Method Toolkit** | R | Survey Data | Likert Scales + Descriptives + Weighting
+
+Full pipeline for importing, cleaning, and analyzing survey data. Covers Likert scale analysis, descriptive statistics with `gtsummary`, survey weighting with `srvyr`, and diverging bar chart visualization. Compatible with Qualtrics, SurveyMonkey, SPSS, and Stata exports.
+
+#### 📝 [survey-scale-validation-r](https://github.com/sawoodanwar/survey-scale-validation-r)
+> **Method Toolkit** | R | Psychometrics | EFA + CFA + Reliability
+
+Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach’s α and McDonald’s ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
+
+#### 🧪 [survey-experiment-analysis-r](https://github.com/sawoodanwar/survey-experiment-analysis-r)
+> **Method Toolkit** | R | Survey Experiments + Vignette Studies
+
+Analysis pipeline for survey experiments and vignette studies. Covers randomization checks, manipulation checks, ATE estimation with robust standard errors (`estimatr`), OLS regression with `modelsummary` publication tables, moderation/interaction effects, and coefficient plot visualization.
 
 ---
 
