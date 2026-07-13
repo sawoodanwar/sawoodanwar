@@ -17,7 +17,7 @@
 
 I am a researcher working at the intersection of **computational communication**, **social media analysis**, and **natural language processing**. I completed my PhD at the [University of Urbino Carlo Bo](https://www.uniurb.it/en) (Cycle XXXVII, Academic Year 2023/2024), under the supervision of **Prof. Fabio Giglietto** and **Prof. Giovanni Boccia Artieri**.
 
-My doctoral thesis examined **Facebook Reactions as emotional indicators** of public engagement with COVID-19 news on Indian media platforms — combining time-series analysis, embedding-based topic modeling, GPT-4-assisted cluster labeling, and lexicon-based sentiment analysis across 68,319 Facebook posts.
+My doctoral thesis examined **Facebook Reactions as emotional indicators** of public engagement with COVID-19 news on Indian media platforms — combining time-series analysis, embedding-based topic modeling, LLM-based cluster annotation, and lexicon-based sentiment analysis across 68,319 Facebook posts.
 
 ---
 
@@ -56,7 +56,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 | Data Collection | CrowdTangle, Meta Content Library API, Reddit API |
 | Time-Series | `zoo`, `forecast`, `anomalize`, Z-score, rolling stats |
 | Survey Methods | `psych`, `lavaan`, `semTools`, `survey`, `estimatr`, `gtsummary` |
-| Other | GPT-4 API (cluster labeling), OpenAI embeddings, SHAP, Gephi |
+| Other | LLM-based cluster annotation, OpenAI embeddings, SHAP, Gephi |
 
 ---
 
@@ -67,7 +67,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 #### 🦠 [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india)
 > **PhD Thesis Project** | R + Python | Facebook | COVID-19
 
-Multi-method analysis of Facebook Reactions as emotional indicators of public engagement with COVID-19 news in India (2020–2022). Combines time-series analysis, embedding-based topic modeling, GPT-4 cluster labeling, and sentiment analysis on 68,319 posts from 4 major Indian news outlets.
+Multi-method analysis of Facebook Reactions as emotional indicators of public engagement with COVID-19 news in India (2020–2022). Combines time-series analysis, embedding-based topic modeling, LLM-based cluster annotation, and sentiment analysis on 68,319 posts from 4 major Indian news outlets.
 
 ---
 
