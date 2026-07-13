@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/sawoodanwar"><img src="https://img.shields.io/badge/GitHub-sawoodanwar-181717?style=flat&logo=github" /></a>
   <a href="https://www.linkedin.com/in/sawood-anwar/"><img src="https://img.shields.io/badge/LinkedIn-sawood--anwar-0A66C2?style=flat&logo=linkedin" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=GgsMu3sAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Sawood%20Anwar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Sawood%20Anwar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
 </p>
 
 ---
@@ -150,7 +150,7 @@ Full pipeline for importing, cleaning, and analyzing survey data. Covers Likert 
 #### 📝 [survey-scale-validation-r](https://github.com/sawoodanwar/survey-scale-validation-r)
 > **Method Toolkit** | R | Psychometrics | EFA + CFA + Reliability
 
-Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach’s α and McDonald’s ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
+Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach's α and McDonald's ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
 
 #### 🧪 [survey-experiment-analysis-r](https://github.com/sawoodanwar/survey-experiment-analysis-r)
 > **Method Toolkit** | R | Survey Experiments + Vignette Studies
@@ -177,4 +177,4 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomizat
 
 - 🔗 GitHub: [github.com/sawoodanwar](https://github.com/sawoodanwar)
 - 💼 LinkedIn: [linkedin.com/in/sawood-anwar](https://www.linkedin.com/in/sawood-anwar/)
-- 🎓 Google Scholar: [Sawood Anwar](https://scholar.google.com/citations?hl=en&user=GgsMu3sAAAAJ)
+- 🎓 Google Scholar: [Sawood Anwar](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en)
