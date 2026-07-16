@@ -1,16 +1,25 @@
 <h1 align="center">Hi, I'm Sawood Anwar 👋</h1>
 
 <p align="center">
-  <b>Computational Social Scientist · NLP Researcher · Early Career Academic</b><br>
-  PhD in Humanities (Text & Communication Sciences) · University of Urbino Carlo Bo, Italy
+  <b>Computational Social Scientist &nbsp;·&nbsp; NLP Researcher &nbsp;·&nbsp; Early Career Academic</b><br>
+  PhD in Humanities (Text &amp; Communication Sciences) &nbsp;·&nbsp; University of Urbino Carlo Bo, Italy
 </p>
 
 <p align="center">
-  <a href="https://github.com/sawoodanwar"><img src="https://img.shields.io/badge/GitHub-sawoodanwar-181717?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/sawood-anwar/"><img src="https://img.shields.io/badge/LinkedIn-sawood--anwar-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://sawoodanwar.github.io/"><img src="https://img.shields.io/badge/Website-sawoodanwar.github.io-1a1a2e?style=flat&logo=githubpages&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Sawood%20Anwar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0000-2819-9179"><img src="https://img.shields.io/badge/ORCID-0009--0000--2819--9179-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sawood-anwar/"><img src="https://img.shields.io/badge/LinkedIn-sawood--anwar-0A66C2?style=flat&logo=linkedin" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sawoodanwar&color=blueviolet&style=flat&label=Profile+Views" />
+</p>
+
+---
+
+> 🔍 **Open to postdoctoral positions, research fellowships, and visiting researcher roles** in computational communication, NLP, and social media studies.
+> 📩 Reach me via [LinkedIn](https://www.linkedin.com/in/sawood-anwar/) or [sawoodanwar.github.io](https://sawoodanwar.github.io/)
 
 ---
 
@@ -24,8 +33,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 
 ## 🔬 Research Interests
 
-- Social media & platform studies
-- Computational communication science
+- Computational communication science & platform studies
 - NLP, topic modeling & text embeddings
 - Sentiment and reaction analysis
 - Health communication & misinformation
@@ -42,6 +50,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![tidytext](https://img.shields.io/badge/tidytext-NLP-green?style=flat)
 ![STM](https://img.shields.io/badge/STM-Topic%20Modeling-blueviolet?style=flat)
+![BERTopic](https://img.shields.io/badge/BERTopic-Embeddings-8A2BE2?style=flat)
 ![tidymodels](https://img.shields.io/badge/tidymodels-ML-orange?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![lavaan](https://img.shields.io/badge/lavaan-CFA%2FEFA-9B59B6?style=flat)
@@ -65,9 +74,11 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 
 | Title | Authors | Venue | Cited by | Year |
 |---|---|---|---|---|
-| [Facebook reactions in the context of politics and social issues: a systematic literature review](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:u-x6o8ySG0sC) | S Anwar, F Giglietto | *Frontiers in Sociology* 9, 1379265 | **25** | 2024 |
-| ["Facebook Reactions" as Emotional Indicators: A Multi-Method Approach to Analyzing User Engagement with COVID-19 News on Indian Media Platforms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:d1gkVwhDpl0C) | S Anwar | PhD Thesis, University of Urbino Carlo Bo | — | 2025 |
+| [Facebook Reactions as Emotional Indicators: Analyzing Public Engagement with COVID-19 Pandemic News on Indian Media Platforms During the Early Lockdown Phase](https://doi.org/10.3389/fsoc.2024.1379265) | **S Anwar**, F Giglietto | *Frontiers in Sociology*, 9, 1379265 | **25+** | 2024 |
+| ["Facebook Reactions" as Emotional Indicators: A Multi-Method Approach to Analyzing User Engagement with COVID-19 News on Indian Media Platforms](https://ora.uniurb.it/handle/11576/2761691) | **S Anwar** | PhD Thesis, University of Urbino Carlo Bo | — | 2025 |
 | [Between Localism and Politics: Mapping Coordinated Networks that Circulate Problematic Health Content in India](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:u5HHmVD_uO8C) | F Giglietto, P Ghasiya, K Sasahara, **S Anwar**, R Mincigrucci | SSRN 4164140 | — | 2022 |
+
+> 📊 *Citation counts are updated periodically. For live counts see [Google Scholar profile](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en).*
 
 ---
 
@@ -94,18 +105,23 @@ Comprehensive time-series framework covering: (1) reusable general toolkit for a
 ### 🗂️ Topic Modeling
 
 #### 🧠 [stm-social-media-r](https://github.com/sawoodanwar/stm-social-media-r)
-> **Method Toolkit** | R | Topic Modeling | Social Media
+> **Method Toolkit** | R | Structural Topic Model | Social Media
 
-Reproducible STM (Structural Topic Model) workflow for social media text in R. Includes preprocessing, DFM construction, topic fitting with covariates, and visualization.
+Reproducible STM workflow for social media text in R. Includes corpus construction, DFM building, `searchK` model selection, topic fitting with prevalence covariates, `estimateEffect`, and `ggplot2` visualization.
+
+#### 🤖 [bertopic-media-topics](https://github.com/sawoodanwar/bertopic-media-topics)
+> **Method Toolkit** | Python + R | BERTopic | Embedding-Based Topics
+
+BERTopic pipeline for media corpora: sentence embeddings → UMAP → HDBSCAN → c-TF-IDF → optional LLM labeling. Outputs export to R for post-hoc engagement analysis.
 
 ---
 
 ### 💬 Sentiment Analysis
 
 #### 💬 [sentiment-lexicon-comparison](https://github.com/sawoodanwar/sentiment-lexicon-comparison)
-> **Method Toolkit** | R | Sentiment Analysis | NLP
+> **Method Toolkit** | R | Sentiment Analysis | AFINN · Bing · NRC
 
-Comparison of AFINN, Bing, and NRC lexicons on social media text. Demonstrates how lexicon choice affects sentiment outputs — ideal for researchers selecting tools for text analysis.
+Comparison of AFINN, Bing, and NRC lexicons on social media text with code examples and visual outputs. Helps researchers understand how lexicon choice affects sentiment scores.
 
 ---
 
@@ -184,8 +200,18 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomizat
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
 ## 📫 Contact
 
+- 🌐 Website: [sawoodanwar.github.io](https://sawoodanwar.github.io/)
 - 🔗 GitHub: [github.com/sawoodanwar](https://github.com/sawoodanwar)
 - 💼 LinkedIn: [linkedin.com/in/sawood-anwar](https://www.linkedin.com/in/sawood-anwar/)
 - 🎓 Google Scholar: [Sawood Anwar](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en)
