@@ -78,7 +78,7 @@ My doctoral thesis examined **Facebook Reactions as emotional indicators** of pu
 | ["Facebook Reactions" as Emotional Indicators: A Multi-Method Approach to Analyzing User Engagement with COVID-19 News on Indian Media Platforms](https://ora.uniurb.it/handle/11576/2761691) | **S Anwar** | PhD Thesis, University of Urbino Carlo Bo | — | 2025 |
 | [Between Localism and Politics: Mapping Coordinated Networks that Circulate Problematic Health Content in India](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:u5HHmVD_uO8C) | F Giglietto, P Ghasiya, K Sasahara, **S Anwar**, R Mincigrucci | SSRN 4164140 | — | 2022 |
 
-> 📊 *Citation counts are updated periodically. For live counts see [Google Scholar profile](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en).*
+> 📊 *For live citation counts see [Google Scholar profile](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en).*
 
 ---
 
@@ -177,7 +177,7 @@ Full pipeline for importing, cleaning, and analyzing survey data. Covers Likert 
 #### 📝 [survey-scale-validation-r](https://github.com/sawoodanwar/survey-scale-validation-r)
 > **Method Toolkit** | R | Psychometrics | EFA + CFA + Reliability
 
-Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach's α and McDonald's ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
+Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach’s α and McDonald’s ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
 
 #### 🧪 [survey-experiment-analysis-r](https://github.com/sawoodanwar/survey-experiment-analysis-r)
 > **Method Toolkit** | R | Survey Experiments + Vignette Studies
@@ -202,10 +202,40 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomizat
 
 ## 📊 GitHub Activity
 
+<!-- Row 1: Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&custom_title=Sawood%27s+GitHub+Stats"
+    height="165"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    src="https://streak-stats.demolab.com?user=sawoodanwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
+
+<!-- Row 2: Top Languages -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most+Used+Languages"
+    height="130"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Row 3: Activity Graph (full width) -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sawoodanwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity+Graph"
+    width="95%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+> 📌 *This profile represents publicly shared research code and documentation. Primary research data is governed by Meta’s CrowdTangle and Content Library data-use agreements and is not redistributed.*
 
 ---
 
