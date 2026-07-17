@@ -56,9 +56,9 @@ Sawood Anwar’s research interests include **health communication**, **misinfor
 > *Sawood Anwar* — University of Urbino Carlo Bo, 2025  
 > 🔗 [Full text — Institutional Repository ORA Uniurb](https://ora.uniurb.it/handle/11576/2761691)
 
-**Abstract:** This thesis investigates the role of Facebook Reactions as indicators of public sentiment and engagement with COVID-19 pandemic-related news in India during different stages of the pandemic (March 24, 2020 – March 31, 2022). The study employs a mixed-methods approach combining **time-series analysis**, **embedding-based topic modelling**, **LLM-assisted cluster labelling**, and **lexicon-based sentiment analysis**. The dataset comprises **68,319 Facebook posts** from four major English-language Indian news outlets — The Times of India, NDTV, The Hindu, and Hindustan Times — with a focused subset of **8,622 posts** covering the early pandemic phase (March 24 – April 14, 2020). Findings reveal how discrete Facebook Reaction types (Like, Love, Haha, Wow, Sad, Angry) function as affective engagement signals tracking shifting public sentiment across dominant news themes and pandemic phases in India.
+**Abstract:** This thesis investigates the role of Facebook Reactions as indicators of public sentiment and engagement with COVID-19 pandemic-related news in India during different stages of the pandemic (March 24, 2020 – March 31, 2022). The study employs a mixed-methods approach combining **time-series analysis**, **embedding-based topic modelling**, **LLM-assisted cluster labelling**, and **lexicon-based sentiment analysis**. The dataset comprises **68,319 Facebook posts** from four major English-language Indian news outlets — **The Times of India**, **The Hindu**, **Indian Express**, and **Hindustan Times** — with a focused subset of **8,622 posts** covering the early pandemic phase (March 24 – April 14, 2020). Findings reveal how discrete Facebook Reaction types (Like, Love, Haha, Wow, Sad, Angry) function as affective engagement signals tracking shifting public sentiment across dominant news themes and pandemic phases in India.
 
-**Keywords:** Facebook Reactions · COVID-19 · India · social media · sentiment analysis · topic modelling · BERTopic · time-series · computational communication · health communication · misinformation
+**Keywords:** Facebook Reactions · COVID-19 · India · social media · sentiment analysis · topic modelling · BERTopic · time-series · computational communication · health communication · misinformation · The Times of India · The Hindu · Indian Express · Hindustan Times
 
 ---
 
@@ -132,7 +132,7 @@ Sawood Anwar’s research interests include **health communication**, **misinfor
 #### [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india)
 `R` `Python` `Facebook` `COVID-19` `India` `NLP` `BERTopic` `Sentiment Analysis` `Time-Series` `PhD Thesis`
 
-Core repository for the doctoral dissertation by **Sawood Anwar** (University of Urbino Carlo Bo, 2025). Multi-method analysis of Facebook Reactions (68,319 posts, 2020–2022) as emotional indicators of public engagement with COVID-19 news across four major Indian English-language media outlets. Integrates time-series analysis, BERTopic-based topic modelling, LLM-assisted cluster annotation, and lexicon-based sentiment analysis.
+Core repository for the doctoral dissertation by **Sawood Anwar** (University of Urbino Carlo Bo, 2025). Multi-method analysis of Facebook Reactions (68,319 posts, 2020–2022) as emotional indicators of public engagement with COVID-19 news across **The Times of India**, **The Hindu**, **Indian Express**, and **Hindustan Times**. Integrates time-series analysis, BERTopic-based topic modelling, LLM-assisted cluster annotation, and lexicon-based sentiment analysis.
 
 ---
 
