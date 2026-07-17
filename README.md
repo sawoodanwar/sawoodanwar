@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Sawood Anwar 👋</h1>
+# Sawood Anwar — Computational Social Scientist | NLP Researcher
+
+<!-- HTML badges below are for visual display only; plain-text heading above is for search engine indexing -->
+<h2 align="center">Hi, I'm Sawood Anwar 👋</h2>
 
 <p align="center">
   <b>Computational Social Scientist &nbsp;·&nbsp; NLP Researcher &nbsp;·&nbsp; Early Career Academic</b><br>
@@ -10,6 +13,7 @@
   <a href="https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Sawood%20Anwar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0000-2819-9179"><img src="https://img.shields.io/badge/ORCID-0009--0000--2819--9179-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sawood-anwar/"><img src="https://img.shields.io/badge/LinkedIn-sawood--anwar-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="mailto:anwar1524@gmail.com"><img src="https://img.shields.io/badge/Email-anwar1524@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -177,7 +181,7 @@ Full pipeline for importing, cleaning, and analyzing survey data. Covers Likert 
 #### 📝 [survey-scale-validation-r](https://github.com/sawoodanwar/survey-scale-validation-r)
 > **Method Toolkit** | R | Psychometrics | EFA + CFA + Reliability
 
-Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach’s α and McDonald’s ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
+Psychometric scale validation pipeline using `psych` and `lavaan`. Covers item inspection, Cronbach's α and McDonald's ω reliability, EFA with parallel analysis, CFA with fit indices (CFI, TLI, RMSEA, SRMR), and convergent/discriminant validity.
 
 #### 🧪 [survey-experiment-analysis-r](https://github.com/sawoodanwar/survey-experiment-analysis-r)
 > **Method Toolkit** | R | Survey Experiments + Vignette Studies
@@ -235,7 +239,7 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomizat
   />
 </p>
 
-> 📌 *This profile represents publicly shared research code and documentation. Primary research data is governed by Meta’s CrowdTangle and Content Library data-use agreements and is not redistributed.*
+> 📌 *This profile represents publicly shared research code and documentation. Primary research data is governed by Meta's CrowdTangle and Content Library data-use agreements and is not redistributed.*
 
 ---
 
@@ -246,3 +250,4 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomizat
 - 💼 LinkedIn: [linkedin.com/in/sawood-anwar](https://www.linkedin.com/in/sawood-anwar/)
 - 🎓 Google Scholar: [Sawood Anwar](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en)
 - 🆔 ORCID: [0009-0000-2819-9179](https://orcid.org/0009-0000-2819-9179)
+- 📧 Email: [anwar1524@gmail.com](mailto:anwar1524@gmail.com)
