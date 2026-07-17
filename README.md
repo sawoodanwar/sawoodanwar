@@ -1,9 +1,25 @@
-# Sawood Anwar, PhD — Computational Social Scientist | NLP | Social Media Analysis | COVID-19
-### Early Career Researcher · Computational Communication · Text Mining · University of Urbino Carlo Bo
+# Sawood Anwar, PhD
+### Computational Social Scientist · NLP Researcher · Early Career Researcher
+**Specialisation:** Social Media Analysis · Topic Modelling · Sentiment Analysis · Health Communication · Computational Communication
 
-**Department of Communication Sciences, Humanities and International Studies (DISCUI)**  
-**University of Urbino Carlo Bo, Italy** · PhD Defended: 22 September 2025  
-**Academic Discipline:** GSPS-06/A · **ORCID:** [0009-0000-2819-9179](https://orcid.org/0009-0000-2819-9179)
+<table>
+<tr>
+<td><strong>Affiliation</strong></td>
+<td>Department of Communication Sciences, Humanities and International Studies (DISCUI)<br>University of Urbino Carlo Bo, Italy</td>
+</tr>
+<tr>
+<td><strong>PhD Defended</strong></td>
+<td>22 September 2025 · Cycle XXXVII · Academic Year 2023/2024</td>
+</tr>
+<tr>
+<td><strong>Academic Discipline</strong></td>
+<td>GSPS-06/A</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Italy 🇮🇹</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://sawoodanwar.github.io/"><img src="https://img.shields.io/badge/Academic%20Website-sawoodanwar.github.io-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
@@ -23,17 +39,45 @@
 
 ---
 
-## About Sawood Anwar
+## 📖 About Sawood Anwar
 
 **Sawood Anwar** is a computational social scientist and early career researcher specialising in **natural language processing (NLP)**, **social media analysis**, **computational communication**, **topic modelling**, and **sentiment analysis**. He is a PhD graduate of the [University of Urbino Carlo Bo](https://www.uniurb.it/en), Italy (Cycle XXXVII, 2025), supervised by **Prof. Fabio Giglietto** and co-supervised by **Prof. Giovanni Boccia Artieri**.
 
 His doctoral research analysed **Facebook Reactions** as emotional indicators of public sentiment and engagement with **COVID-19 news on Indian media platforms** (March 2020 – March 2022), using a dataset of **68,319 Facebook posts** from four major English-language Indian news outlets. The methodology combined **time-series analysis**, **BERTopic embedding-based topic modelling**, **LLM-assisted cluster labelling**, and **lexicon-based sentiment analysis**.
 
-Sawood Anwar’s research interests include **health communication**, **misinformation detection**, **platform studies**, **disinformation**, **crisis communication**, **survey methods**, **psychometric scale validation**, and **machine learning for text classification**. His published work has received **25+ citations** (as of 2024–2025).
+Sawood Anwar’s broader research agenda addresses **health communication**, **misinformation detection**, **platform studies**, **disinformation**, **crisis communication**, **survey methods**, **psychometric scale validation**, and **machine learning for text classification**. His published work has received **25+ citations** (2024–2025).
 
 ---
 
-## Academic Credentials
+## 🏆 Research Impact at a Glance
+
+<p align="center">
+
+| Metric | Value |
+|:---|:---|
+| 📜 Peer-reviewed journal articles | 1 (Open Access) |
+| 🎓 Doctoral dissertation | University of Urbino Carlo Bo, 2025 |
+| 📊 Total citations (Google Scholar) | **25+** |
+| 📊 h-index | See [Google Scholar](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en) |
+| 🧠 Public research repositories | 18 |
+| 🔓 Open Access outputs | 100% |
+| 🆔 ORCID | [0009-0000-2819-9179](https://orcid.org/0009-0000-2819-9179) |
+
+</p>
+
+---
+
+## 📝 Research Statement
+
+My research sits at the intersection of **computational communication science**, **natural language processing**, and **platform studies**. I investigate how digital platforms mediate collective emotion, public discourse, and information ecosystems during societal crises — with a particular focus on platform-native engagement signals (such as **Facebook Reactions**) as proxies for affective public response.
+
+Methodologically, I combine **corpus-based text analysis**, **embedding-based topic modelling** (BERTopic, STM), **time-series analysis**, **lexicon-based sentiment analysis**, and **LLM-assisted semantic annotation** to study large-scale social media corpora. I am also experienced in **survey methods**, **psychometric scale validation** (EFA, CFA, SEM), and **experimental designs** for communication research.
+
+My work contributes to three overlapping fields: (1) **computational communication science**, by advancing mixed-method frameworks for platform data analysis; (2) **health and crisis communication**, by examining how Indian media audiences responded to COVID-19 information online; and (3) **misinformation and disinformation studies**, by developing reproducible ML pipelines for detecting and understanding false information.
+
+---
+
+## 🎓 Academic Credentials
 
 | Field | Details |
 |---|---|
@@ -50,7 +94,7 @@ Sawood Anwar’s research interests include **health communication**, **misinfor
 
 ---
 
-## Doctoral Thesis
+## 📚 Doctoral Thesis
 
 > **“Facebook Reactions” as Emotional Indicators: A Multi-Method Approach to Analyzing User Engagement with COVID-19 News on Indian Media Platforms**  
 > *Sawood Anwar* — University of Urbino Carlo Bo, 2025  
@@ -58,16 +102,16 @@ Sawood Anwar’s research interests include **health communication**, **misinfor
 
 **Abstract:** This thesis investigates the role of Facebook Reactions as indicators of public sentiment and engagement with COVID-19 pandemic-related news in India during different stages of the pandemic (March 24, 2020 – March 31, 2022). The study employs a mixed-methods approach combining **time-series analysis**, **embedding-based topic modelling**, **LLM-assisted cluster labelling**, and **lexicon-based sentiment analysis**. The dataset comprises **68,319 Facebook posts** from four major English-language Indian news outlets — **The Times of India**, **The Hindu**, **Indian Express**, and **Hindustan Times** — with a focused subset of **8,622 posts** covering the early pandemic phase (March 24 – April 14, 2020). Findings reveal how discrete Facebook Reaction types (Like, Love, Haha, Wow, Sad, Angry) function as affective engagement signals tracking shifting public sentiment across dominant news themes and pandemic phases in India.
 
-**Keywords:** Facebook Reactions · COVID-19 · India · social media · sentiment analysis · topic modelling · BERTopic · time-series · computational communication · health communication · misinformation · The Times of India · The Hindu · Indian Express · Hindustan Times
+**Keywords:** `Facebook Reactions` `COVID-19` `India` `social media` `sentiment analysis` `topic modelling` `BERTopic` `time-series` `computational communication` `health communication` `misinformation` `The Times of India` `The Hindu` `Indian Express` `Hindustan Times`
 
 ---
 
-## Peer-Reviewed Publications
+## 📃 Peer-Reviewed Publications
 
 ### Journal Articles
 
 **[1]** **Anwar, S.**, & Giglietto, F. (2024). Facebook Reactions as Emotional Indicators: Analyzing Public Engagement with COVID-19 Pandemic News on Indian Media Platforms During the Early Lockdown Phase. *Frontiers in Sociology*, 9, 1379265. **25+ citations.**  
-🔗 DOI: [10.3389/fsoc.2024.1379265](https://doi.org/10.3389/fsoc.2024.1379265) · 🔓 Open Access
+🔗 DOI: [10.3389/fsoc.2024.1379265](https://doi.org/10.3389/fsoc.2024.1379265) · 🔓 Open Access · 🌐 [Full Text](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2024.1379265/full)
 
 ### Working Papers & Preprints
 
@@ -83,20 +127,20 @@ Sawood Anwar’s research interests include **health communication**, **misinfor
 
 ---
 
-## Research Interests
+## 🔬 Research Interests
 
 `computational communication` `social media analysis` `natural language processing` `NLP` `topic modelling` `BERTopic` `STM` `sentiment analysis` `Facebook Reactions` `COVID-19` `health communication` `misinformation` `disinformation detection` `crisis communication` `time-series analysis` `platform studies` `text embeddings` `survey methods` `psychometrics` `machine learning` `text classification` `Indian media` `digital methods`
 
 - **Computational Communication Science** — platform-native engagement signals, affective public response, digital media effects
 - **Natural Language Processing** — topic modelling (BERTopic, STM), text embeddings, LLM-assisted annotation
-- **Sentiment & Affective Analysis** — lexicon-based methods, reaction-type classification, emotion detection
+- **Sentiment & Affective Analysis** — lexicon-based methods, reaction-type classification, emotion detection in social media
 - **Health & Crisis Communication** — COVID-19, pandemic misinformation, Indian media platforms
-- **Disinformation & Platform Studies** — coordinated inauthentic behaviour, cross-platform analysis
-- **Quantitative & Computational Methods** — time-series, ML classification, survey experiments, psychometric validation
+- **Disinformation & Platform Studies** — coordinated inauthentic behaviour, cross-platform analysis (Facebook, Instagram, Reddit)
+- **Quantitative & Computational Methods** — time-series, ML classification, survey experiments, psychometric scale validation
 
 ---
 
-## Methods & Computational Skills
+## 🛠️ Methods & Computational Skills
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -121,18 +165,19 @@ Sawood Anwar’s research interests include **health communication**, **misinfor
 
 ---
 
-## Research Portfolio & Code
+## 🗂️ Research Portfolio & Open Science
 
-> All repositories present reproducible, peer-reviewed or thesis-linked research workflows for the computational communication and NLP community.
+> ℹ️ **Open Science Commitment:** All code and workflows in this repository are publicly available under open licences to support reproducibility and transparency in computational communication research. Primary research data is governed by Meta’s CrowdTangle and Content Library data-use agreements.
 
 ---
 
-### 🦠 Doctoral Research — PhD Thesis Repository
+### 🦠 Doctoral Research — PhD Thesis
 
 #### [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india)
-`R` `Python` `Facebook` `COVID-19` `India` `NLP` `BERTopic` `Sentiment Analysis` `Time-Series` `PhD Thesis`
+`R` `Python` `Facebook` `COVID-19` `India` `NLP` `BERTopic` `Sentiment Analysis` `Time-Series` `PhD Thesis` `Open Science`
 
-Core repository for the doctoral dissertation by **Sawood Anwar** (University of Urbino Carlo Bo, 2025). Multi-method analysis of Facebook Reactions (68,319 posts, 2020–2022) as emotional indicators of public engagement with COVID-19 news across **The Times of India**, **The Hindu**, **Indian Express**, and **Hindustan Times**. Integrates time-series analysis, BERTopic-based topic modelling, LLM-assisted cluster annotation, and lexicon-based sentiment analysis.
+Core repository for the doctoral dissertation by **Sawood Anwar** (University of Urbino Carlo Bo, 2025). Multi-method analysis of Facebook Reactions (68,319 posts, 2020–2022) as emotional indicators of public engagement with COVID-19 news across **The Times of India**, **The Hindu**, **Indian Express**, and **Hindustan Times**. Integrates time-series analysis, BERTopic-based topic modelling, LLM-assisted cluster annotation, and lexicon-based sentiment analysis.  
+📝 *Linked publication:* [Frontiers in Sociology, 2024](https://doi.org/10.3389/fsoc.2024.1379265)
 
 ---
 
@@ -190,9 +235,9 @@ Unified R framework harmonising engagement data from Facebook, Instagram, and Re
 ### 🔴 Machine Learning & NLP Classification
 
 #### [disinformation-detection-ml](https://github.com/sawoodanwar/disinformation-detection-ml)
-`Python` `R` `Machine Learning` `Disinformation Detection` `SHAP` `TF-IDF` `NLP`
+`Python` `R` `Machine Learning` `Disinformation Detection` `SHAP` `TF-IDF` `NLP` `Explainable AI`
 
-Supervised machine learning pipeline for classifying disinformation in news posts. Benchmarks Logistic Regression, Random Forest, SVM, and Naïve Bayes using TF-IDF features. Includes SHAP-based model interpretability analysis for explainable AI in communication research.
+Supervised machine learning pipeline for classifying disinformation in news posts. Benchmarks Logistic Regression, Random Forest, SVM, and Naïve Bayes using TF-IDF features. Includes SHAP-based model interpretability for explainable AI in communication research.
 
 #### [nlp-news-classification-r](https://github.com/sawoodanwar/nlp-news-classification-r)
 `R` `tidymodels` `textrecipes` `Supervised NLP` `News Classification` `Health` `Politics`
@@ -229,7 +274,18 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomisat
 
 ---
 
-## GitHub Activity
+## 🤝 Academic Service & Community
+
+| Role | Details |
+|---|---|
+| **Peer Review** | Open to reviewing manuscripts in computational communication, NLP, social media analysis, and health communication |
+| **Open Science** | All research code publicly available; committed to reproducible and transparent research practices |
+| **Research Community** | Engaged with [ICA](https://www.icahdq.org/), [AoIR](https://aoir.org/), and computational social science communities |
+| **Collaboration** | Open to cross-disciplinary collaborations in CSS, NLP, platform studies, and global health communication |
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&custom_title=Sawood+Anwar+GitHub+Stats" height="165" alt="Sawood Anwar GitHub Stats" />
@@ -243,21 +299,22 @@ Analysis pipeline for survey experiments and vignette studies. Covers randomisat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawoodanwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Sawood+Anwar+Contribution+Graph" width="95%" alt="Sawood Anwar GitHub Contribution Graph" />
 </p>
 
-> 📌 *This profile presents publicly shared research code and methodological workflows by Sawood Anwar. Primary research data is governed by Meta’s CrowdTangle and Content Library data-use agreements and is not redistributed.*
-
 ---
 
-## Contact & Academic Profiles
+## 📫 Contact & Academic Profiles
 
 | Platform | Link |
 |---|---|
 | 🌐 Academic Website | [sawoodanwar.github.io](https://sawoodanwar.github.io/) |
 | 🎓 Google Scholar | [Sawood Anwar — Google Scholar Profile](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en) |
 | 🆔 ORCID | [orcid.org/0009-0000-2819-9179](https://orcid.org/0009-0000-2819-9179) |
-| 💼 LinkedIn | [linkedin.com/in/sawood-anwar](https://www.linkedin.com/in/sawood-anwar/) |
+| 💼 LinkedIn | [linkedin.com/in/sawood-anwar](https://www.linkedin.com/in/sawood-anwar/)
 | 🔗 GitHub | [github.com/sawoodanwar](https://github.com/sawoodanwar) |
 | 📧 Email | [anwar1524@gmail.com](mailto:anwar1524@gmail.com) |
 
 ---
 
-*Sawood Anwar · PhD · Computational Social Scientist · NLP Researcher · University of Urbino Carlo Bo · Italy · 2025*
+<p align="center">
+  <em>Sawood Anwar · PhD · Computational Social Scientist · NLP Researcher · University of Urbino Carlo Bo · Italy · 2025</em><br>
+  <em>Computational Communication · Social Media Analysis · Topic Modelling · Sentiment Analysis · Facebook Reactions · COVID-19 · Indian Media</em>
+</p>
