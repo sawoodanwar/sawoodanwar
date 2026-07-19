@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://sawoodanwar.github.io/"><img src="https://img.shields.io/badge/Academic%20Website-sawoodanwar.github.io-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-25%2B%20Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0000-2819-9179"><img src="https://img.shields.io/badge/ORCID-0009--0000--2819--9179-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 <p align="center">
@@ -45,7 +45,7 @@ I am a computational social scientist and early career researcher whose work sit
 
 My doctoral research examined **Facebook Reactions** as emotional indicators of public sentiment and engagement with **COVID-19 news on Indian media platforms** (March 2020 – March 2022), drawing on a dataset of **68,319 Facebook posts** from four major English-language outlets. The methodology integrated **time-series analysis**, **BERTopic embedding-based topic modelling**, **LLM-assisted cluster labelling**, and **lexicon-based sentiment analysis**.
 
-Beyond my dissertation, my research agenda spans **health communication**, **misinformation detection**, **platform studies**, **crisis communication**, and **psychometric scale validation**. My published work has received **25+ citations** (2024–2025).
+Beyond my dissertation, my research agenda spans **health communication**, **misinformation detection**, **platform studies**, **crisis communication**, and **psychometric scale validation**. My published work has received citations tracked live below.
 
 ---
 
@@ -65,7 +65,7 @@ The thesis investigates how discrete Facebook Reaction types (Like, Love, Haha, 
 
 ### Journal Article
 
-**[1]** **Anwar, S.**, & Giglietto, F. (2024). Facebook Reactions as Emotional Indicators: Analyzing Public Engagement with COVID-19 Pandemic News on Indian Media Platforms During the Early Lockdown Phase. *Frontiers in Sociology*, 9, 1379265. **25+ citations.**
+**[1]** **Anwar, S.**, & Giglietto, F. (2024). Facebook Reactions as Emotional Indicators: Analyzing Public Engagement with COVID-19 Pandemic News on Indian Media Platforms During the Early Lockdown Phase. *Frontiers in Sociology*, 9, 1379265.
 🔗 DOI: [10.3389/fsoc.2024.1379265](https://doi.org/10.3389/fsoc.2024.1379265) · 🔓 Open Access
 
 ### Working Paper
@@ -73,7 +73,26 @@ The thesis investigates how discrete Facebook Reaction types (Like, Love, Haha, 
 **[2]** Giglietto, F., Ghasiya, P., Sasahara, K., **Anwar, S.**, & Mincigrucci, R. (2022). Between Localism and Politics: Mapping Coordinated Networks that Circulate Problematic Health Content in India. *SSRN Working Paper* 4164140.
 🔗 [View on SSRN / Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:u5HHmVD_uO8C)
 
-> 📊 Live citation metrics: [Google Scholar — Sawood Anwar](https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en)
+---
+
+## 📊 Citation Metrics
+
+> Live counts fetched weekly from **Semantic Scholar** and **Crossref** APIs via [GitHub Actions](https://github.com/sawoodanwar/sawoodanwar.github.io/actions).
+> Source data: [`citations.json`](https://sawoodanwar.github.io/citations.json) · Updated every Monday at 06:00 UTC
+
+<p align="center">
+
+| Source | Live Count | DOI |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Semantic%20Scholar-Citations-7B68EE?style=flat-square&logo=semanticscholar&logoColor=white" /> | <a href="https://www.semanticscholar.org/paper/Facebook-Reactions-as-Emotional-Indicators%3A-Public-Anwar-Giglietto/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsawoodanwar.github.io%2Fcitations.json&query=%24.frontiers2024.semanticScholar&label=citations&color=7B68EE&style=flat-square" /></a> | `10.3389/fsoc.2024.1379265` |
+| <img src="https://img.shields.io/badge/Crossref-Citations-FF6B35?style=flat-square&logo=crossref&logoColor=white" /> | <a href="https://doi.org/10.3389/fsoc.2024.1379265"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsawoodanwar.github.io%2Fcitations.json&query=%24.frontiers2024.crossref&label=citations&color=FF6B35&style=flat-square" /></a> | `10.3389/fsoc.2024.1379265` |
+| <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /> | <a href="https://scholar.google.com/citations?user=Z2kACpkAAAAJ&hl=en">View profile →</a> | Full metrics &amp; h-index |
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsawoodanwar.github.io%2Fcitations.json&query=%24.frontiers2024.lastUpdated&label=Last%20Updated&color=555555&style=for-the-badge&logo=github" alt="Last Updated" />
+</p>
 
 ---
 
