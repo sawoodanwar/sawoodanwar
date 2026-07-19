@@ -253,13 +253,13 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&custom_title=GitHub+Stats" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&custom_title=GitHub+Stats&cache_seconds=86400&rank_icon=github" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=sawoodanwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages&cache_seconds=86400&exclude_repo=sawoodanwar" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
