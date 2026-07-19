@@ -253,22 +253,21 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&icon_color=79c0ff&custom_title=Sawood+Anwar+GitHub+Stats" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=sawoodanwar&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&icon_color=79c0ff&custom_title=Most+Used+Languages" height="150" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sawoodanwar&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&custom_title=GitHub+Stats" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=sawoodanwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawoodanwar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Graph" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sawoodanwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawoodanwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="95%" alt="Contribution Graph" />
 </p>
 
 ---
