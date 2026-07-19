@@ -267,33 +267,6 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
   <img src="https://github-profile-trophy.vercel.app/?username=sawoodanwar&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </p>
 
-### 📈 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/sawoodanwar/facebook-reactions-covid19-india">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawoodanwar&repo=facebook-reactions-covid19-india&theme=radical&hide_border=true&show_owner=false" alt="facebook-reactions-covid19-india" />
-  </a>
-  <a href="https://github.com/sawoodanwar/bertopic-media-topics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawoodanwar&repo=bertopic-media-topics&theme=radical&hide_border=true&show_owner=false" alt="bertopic-media-topics" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sawoodanwar/timeseries-facebook-engagement-r">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawoodanwar&repo=timeseries-facebook-engagement-r&theme=radical&hide_border=true&show_owner=false" alt="timeseries-facebook-engagement-r" />
-  </a>
-  <a href="https://github.com/sawoodanwar/stm-social-media-r">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawoodanwar&repo=stm-social-media-r&theme=radical&hide_border=true&show_owner=false" alt="stm-social-media-r" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sawoodanwar/disinformation-detection-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawoodanwar&repo=disinformation-detection-ml&theme=radical&hide_border=true&show_owner=false" alt="disinformation-detection-ml" />
-  </a>
-  <a href="https://github.com/sawoodanwar/sentiment-lexicon-comparison">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawoodanwar&repo=sentiment-lexicon-comparison&theme=radical&hide_border=true&show_owner=false" alt="sentiment-lexicon-comparison" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawoodanwar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Graph" width="95%" alt="Contribution Graph" />
 </p>
