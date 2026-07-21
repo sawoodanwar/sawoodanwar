@@ -13,15 +13,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4.2.2
-
-      - name: Set up Python
-        uses: actions/setup-python@v5.6.0
-        with:
-          python-version: '3.12'
+        uses: actions/checkout@v4
 
       - name: Run citation updater
-        run: python scripts/update_scholar.py
+        run: python3 scripts/update_scholar.py
 
       - name: Commit and push citations.json if changed
         run: |
