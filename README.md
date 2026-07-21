@@ -250,26 +250,38 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
+
+<!-- All widgets use stable, non-Vercel sources -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawoodanwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&custom_title=GitHub+Stats&cache_seconds=3600&rank_icon=github&card_width=400" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=sawoodanwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" height="180" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/stars/sawoodanwar?style=for-the-badge&logo=github&color=1a1a2e&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/sawoodanwar?style=for-the-badge&logo=github&color=1a1a2e&label=Followers" />
+  <img src="https://img.shields.io/badge/Public%20Repos-18-1a1a2e?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawoodanwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages&cache_seconds=3600&exclude_repo=sawoodanwar" height="160" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Primary%20Language-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also%20Uses-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Since-2022-181717?style=for-the-badge&logo=github" />
 </p>
 
+### Contribution Graph
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sawoodanwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://ghchart.ssh.surf/sawoodanwar" width="95%" alt="GitHub Contribution Graph" />
 </p>
 
-<!-- Contribution Graph: using ghchart.ssh.surf (GitHub-native data, no rate limits) -->
-<p align="center">
-  <img src="https://ghchart.ssh.surf/sawoodanwar" width="95%" alt="Contribution Graph" />
-</p>
+### Recent Repositories
+
+| Repository | Description | Lang | Updated |
+|---|---|---|---|
+| [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india) | PhD thesis — Facebook Reactions & COVID-19 | R | Jul 2026 |
+| [timeseries-facebook-engagement-r](https://github.com/sawoodanwar/timeseries-facebook-engagement-r) | Time-series Facebook engagement toolkit | R | Jul 2026 |
+| [llm-api-research-r](https://github.com/sawoodanwar/llm-api-research-r) | LLM API integration with R | R | Jul 2026 |
+| [disinformation-detection-ml](https://github.com/sawoodanwar/disinformation-detection-ml) | ML classifier for disinformation | Python | Jul 2026 |
+| [bertopic-media-topics](https://github.com/sawoodanwar/bertopic-media-topics) | BERTopic for media datasets | R/Python | Jul 2026 |
+| [sentiment-lexicon-comparison](https://github.com/sawoodanwar/sentiment-lexicon-comparison) | AFINN / Bing / NRC comparison | R | Jul 2026 |
 
 ---
 
