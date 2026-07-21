@@ -276,17 +276,6 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
   </picture>
 </p>
 
-### Recent Repositories
-
-| Repository | Description | Lang | Updated |
-|---|---|---|---|
-| [facebook-reactions-covid19-india](https://github.com/sawoodanwar/facebook-reactions-covid19-india) | PhD thesis — Facebook Reactions & COVID-19 | R | Jul 2026 |
-| [timeseries-facebook-engagement-r](https://github.com/sawoodanwar/timeseries-facebook-engagement-r) | Time-series Facebook engagement toolkit | R | Jul 2026 |
-| [llm-api-research-r](https://github.com/sawoodanwar/llm-api-research-r) | LLM API integration with R | R | Jul 2026 |
-| [disinformation-detection-ml](https://github.com/sawoodanwar/disinformation-detection-ml) | ML classifier for disinformation | Python | Jul 2026 |
-| [bertopic-media-topics](https://github.com/sawoodanwar/bertopic-media-topics) | BERTopic for media datasets | R/Python | Jul 2026 |
-| [sentiment-lexicon-comparison](https://github.com/sawoodanwar/sentiment-lexicon-comparison) | AFINN / Bing / NRC comparison | R | Jul 2026 |
-
 ---
 
 ## Contact & Academic Profiles
