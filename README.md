@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td><strong>Location</strong></td>
-<td>Italy 🇮🇹</td>
+<td>Urbino, Italy 🇮🇹</td>
 </tr>
 </table>
 
@@ -28,7 +28,7 @@
   <a href="https://orcid.org/0009-0000-2819-9179"><img src="https://img.shields.io/badge/ORCID-0009--0000--2819--9179-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sawood-anwar/"><img src="https://img.shields.io/badge/LinkedIn-sawood--anwar-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sawood-anwar/"><img src="https://img.shields.io/badge/LinkedIn-sawood--anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anwar1524@gmail.com"><img src="https://img.shields.io/badge/Email-anwar1524@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=sawoodanwar&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </p>
@@ -71,7 +71,7 @@ The thesis investigates how discrete Facebook Reaction types (Like, Love, Haha, 
 ### Working Paper
 
 **[2]** Giglietto, F., Ghasiya, P., Sasahara, K., **Anwar, S.**, & Mincigrucci, R. (2022). Between Localism and Politics: Mapping Coordinated Networks that Circulate Problematic Health Content in India. *SSRN Working Paper* 4164140.
-🔗 [View on SSRN / Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:u5HHmVD_uO8C)
+🔗 DOI: [10.2139/ssrn.4164140](https://doi.org/10.2139/ssrn.4164140) · [View on SSRN / Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z2kACpkAAAAJ&citation_for_view=Z2kACpkAAAAJ:u5HHmVD_uO8C)
 
 ---
 
@@ -255,7 +255,7 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
 <p align="center">
   <img src="https://img.shields.io/github/stars/sawoodanwar?style=for-the-badge&logo=github&color=1a1a2e&label=Total%20Stars" />
   <img src="https://img.shields.io/github/followers/sawoodanwar?style=for-the-badge&logo=github&color=1a1a2e&label=Followers" />
-  <img src="https://img.shields.io/badge/Public%20Repos-18-1a1a2e?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repos/sawoodanwar?style=for-the-badge&logo=github&color=1a1a2e&label=Public%20Repos" />
 </p>
 
 <p align="center">
@@ -290,6 +290,10 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
 | 📧 Email | [anwar1524@gmail.com](mailto:anwar1524@gmail.com) |
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-July%202026-555555?style=flat-square&logo=github" />
+</p>
 
 <p align="center">
   <em>Sawood Anwar · PhD · Computational Social Scientist · University of Urbino Carlo Bo, Italy · 2025</em>
