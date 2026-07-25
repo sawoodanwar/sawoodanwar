@@ -264,15 +264,15 @@ Analysis pipeline for survey experiments and vignette studies: randomisation che
   <img src="https://img.shields.io/badge/GitHub%20Since-2022-181717?style=for-the-badge&logo=github" />
 </p>
 
-### GitHub Stats
+### Sawood Anwar's GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawoodanwar&theme=tokyonight" alt="Profile Details" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawoodanwar&theme=tokyonight" alt="Sawood Anwar's Profile Details" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sawoodanwar&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sawoodanwar&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sawoodanwar&theme=tokyonight" alt="Sawood Anwar's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sawoodanwar&theme=tokyonight" alt="Sawood Anwar's Top Languages by Repo" />
 </p>
 
 ### Contribution Graph
